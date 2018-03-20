@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+Welcome to hair's lair. This is where I post stuff about game design and the projects I'm working on.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+hairmachine is an old username I've had since the dawn of the internet. It came from an old school joke, unsurprisingly
+involving hair.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My IRL name is Simon Williams, and I'm a software engineer and entrepreneur based in London. Apart from games, building stuff,
+tinkering and thinking, I like choral singing, playing piano and reading a lot.
