@@ -17,7 +17,7 @@ title: hair's lair
 #email: s.r.williams1986@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Games, musings, code.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  hairmachine
