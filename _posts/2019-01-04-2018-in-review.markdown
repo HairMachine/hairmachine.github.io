@@ -31,7 +31,7 @@ Even if this basically takes the form of some simple libraries for Love2D and a 
 at least something.
 
 In terms of my own game design, I've been tinkering with a system inspired by the Call of Cthulhu RPG and Lovecraft
-in general. You might see it as attempting to make an adventure game, but replacing puzzles is
+in general. You might see it as attempting to make an adventure game, but replacing puzzles with
 a relatively light, replayable strategy layer which should avoid all of the problems I have with puzzle design.
 This will probably be the example game I do with Rosenberg. 
 
