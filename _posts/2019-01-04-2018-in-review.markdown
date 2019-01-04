@@ -1,0 +1,53 @@
+---
+layout: post
+title: "2018 in review"
+date: 2019-01-04 16:45:00 +0000
+categories: review
+---
+2018 was an important year for me personally from a work perspective; I founded a new company, Axiom AI, along
+with some long-time business partners, and we had a quite successful first few months. In between developing the
+new product, being invited into the Techstars network, and jetting of to Berlin to take part in the 2018 SAP.io 
+foundry, it's all been pretty eventful and busy.
+
+Unsurprisingly this has left my other major projects, Rosenberg and Rabalais, on the back burner for a few months.
+As a chronic tinkerer and dilettante I've of course carried on making prototypes and other little bits, but any
+significant progress has been non-existent. In all likelihood this will probably continue into 2019, which following
+on from 2018 should looks set to be a very important year in my life; perhaps the biggest so far.
+
+Nevertheless, I do have personal goals. 
+
+One of them is to write more on this blog, more regularly; perhaps one article
+a month is good to aim for, though I know that inspiration has to come from somewhere. I have a few things I wanted
+to do, including some literary and game design analysis, which could have a home here, as well as updates to 
+anything I've found time to work on.
+
+Another is to get a release of Rosenberg together, or at least put it into a complete enough form that it's usable
+for my purposes. To facilitate this it seems likely that the engine and tools will migrate over to Lua, probably
+using the Love2D framework as a starting point, just to save time. 
+I almost daily have some little idea for another new experiment in game design, and the fact that no tool exists 
+for the kind of turn based strategy games I want to make is a real stumbling block, especially given the fact of time 
+poverty. 
+Even if this basically takes the form of some simple libraries for Love2D and a basic turn based engine loop, it's 
+at least something.
+
+In terms of my own game design, I've been tinkering with a system inspired by the Call of Cthulhu RPG and Lovecraft
+in general. You might see it as attempting to make an adventure game, but replacing puzzles is
+a relatively light, replayable strategy layer which should avoid all of the problems I have with puzzle design.
+This will probably be the example game I do with Rosenberg. 
+
+Note to self: do an article on the design of adventure games at some point.
+
+Finally, a notable event of this year is the open-sourcing of Chris Crawford's SWAT tool for creating interactive 
+storyworlds. As a long-time follower of Crawford this is pretty interesting, so I hope I can make some small amount
+of time to play with it. I've already done some preliminary fiddling with the tool, and have joined with the small
+community of individuals who are into so-called "Storytronics", which is the umbrella term for Chris's approach to
+IS. My initial thoughts are that this is like the assembly language of IS; you can probably do anything in it, but
+good luck trying. Hopefully I can progress further with my understanding this year, and I'm keen to contribute
+to the software in some way, but it remains to be seen if that'll be possible.
+
+That's enough directionless rambling for now. Let's see how the year pans out!
+
+
+
+
+
